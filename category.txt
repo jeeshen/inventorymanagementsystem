@@ -1,0 +1,12 @@
+Health & Beauty|Health & Beauty is a category of products focused on personal care, wellness, and cosmetic enhancement.|available
+Fresh Product|Fresh products refer to perishable items, typically found in grocery stores, that have not been processed or preserved.|available
+Meat & Poultry|Meat & Poultry is a grocery category that includes fresh, frozen, or processed cuts of animal protein.|available
+Pets|The Pets category includes products and supplies for the care, feeding, and well-being of household animals such as dogs, cats, birds, fish, and small pets.|available
+Appliances, Audio & Visual|The Appliances, Audio & Visual category includes electronic devices and home equipment designed for convenience, entertainment, and everyday tasks.|available
+Baby|The Baby category includes products specifically designed for the care, comfort, and development of infants and toddlers.|available
+Bakery|The Bakery category features freshly baked goods such as bread, cakes, pastries, cookies, and other baked treats.|available
+Beverages|The Beverages category includes a wide range of drinks, both non-alcoholic and alcoholic.|available
+Chilled & Frozen|The Chilled & Frozen category includes perishable food items that are kept at low temperatures to maintain freshness and extend shelf life.|available
+Household|The Household category encompasses products and supplies used for maintaining and managing a home.|available
+Groceries|Daily needs|deleted
+e|daily needs|deleted

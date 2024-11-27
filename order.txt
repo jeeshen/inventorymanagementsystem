@@ -1,0 +1,11 @@
+09-09-2024 23:37:02|Watson's Personal Care Store Sdn Bhd|jee|Kotex OverNight Pants M 2S|200|Shipped
+09-09-2024 23:37:11|Watson's Personal Care Store Sdn Bhd|jee|Durex Pleasuremax 12S|200|Shipped
+09-09-2024 23:37:29|Standard Food Solutions Sdn Bhd|jee|Aro Frozen Mixed Berries 1KG|2400|Shipped
+09-09-2024 23:37:48|Mamee-Double Decker(M) Sdn Bhd|jee|Daebak Korean Soy Garlic Sauce 1KG|999|Shipped
+16-09-2024 23:19:25|Mamee-Double Decker(M) Sdn Bhd|lop|Nestum 3In1 10X28G|3000|Shipped
+16-09-2024 23:32:32|Mamee-Double Decker(M) Sdn Bhd|lop|Nestum 3In1 10X28G|3000|Shipped
+17-09-2024 22:32:02|Mamee-Double Decker(M) Sdn Bhd|pop|Nestum 3In1 10X28G|5000|Shipped
+18-09-2024 17:08:58|Mamee-Double Decker(M) Sdn Bhd|pop|Nestum 3In1 10X28G|1000|Shipped
+18-09-2024 17:11:23|Mamee-Double Decker(M) Sdn Bhd|pop|Nestum 3In1 10X28G|1000|Pending to accept by supplier
+21-09-2024 11:46:53|Mamee-Double Decker(M) Sdn Bhd|qwer|Nestum 3In1 10X28G|3000|Cancelled by staff
+21-09-2024 11:47:17|Mamee-Double Decker(M) Sdn Bhd|qwer|Nestum 3In1 10X28G|1000|Shipped

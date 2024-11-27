@@ -1,0 +1,50 @@
+200|Person|Warehouse|Adding stock in|09-09-2024 22:36:50|jee|Daebak Korean Soy Garlic Sauce 1KG
+200|Warehouse Inbound|Warehouse Rack|Purchase order items|09-09-2024 23:46:05|jee|Kotex OverNight Pants M 2S
+200|Warehouse Inbound|Warehouse Rack|Purchase order items|09-09-2024 23:46:13|jee|Durex Pleasuremax 12S
+2400|Warehouse Inbound|Warehouse Rack|Purchase order items|09-09-2024 23:46:55|jee|Aro Frozen Mixed Berries 1KG
+1000|Person|Warehouse|Adding stock in|09-09-2024 23:47:20|jee|Daebak Korean Soy Garlic Sauce 1KG
+2000|Person|Warehouse|Adding stock in|09-09-2024 23:47:27|jee|Corntoz Single Pack 100G
+21321|Person|Warehouse|Adding stock in|09-09-2024 23:47:36|jee|Mamee Chef Creamy Tom Yum Pack Noodles
+100|Warehouse|Person|Removing stock|09-09-2024 23:47:52|jee|Mister Potato Syok Wave
+200|Warehouse|Person|Removing stock|10-09-2024 23:22:04|jee|Durex Pleasuremax 12S
+1000|Warehouse|Warehouse Return Zone|Returning stock|10-09-2024 23:23:37|jee|Daebak Korean Soy Garlic Sauce 1KG
+2000|Warehouse|Warehouse Return Zone|Returning stock|10-09-2024 23:27:44|jee|Corntoz Single Pack 100G
+1000|Warehouse Return Zone|Supplier|Returning product|10-09-2024 23:29:00|jee|Daebak Korean Soy Garlic Sauce 1KG
+2000|Warehouse Return Zone|Supplier|Returning product|10-09-2024 23:30:13|jee|Corntoz Single Pack 100G
+300|Person|Warehouse|Adding stock in|16-09-2024 22:24:33|lop|Kotex OverNight Pants M 2S
+3000|Person|Warehouse|Adding stock in|16-09-2024 22:24:59|lop|Nestum 3In1 10X28G
+500|Person|Warehouse|Adding stock in|16-09-2024 22:25:12|lop|Nestum 3In1 10X28G
+3500|Warehouse|Person|Removing stock|16-09-2024 22:25:42|lop|Nestum 3In1 10X28G
+3500|Warehouse|Person|Removing stock|16-09-2024 22:28:08|lop|Nestum 3In1 10X28G
+3500|Warehouse|Person|Removing stock|16-09-2024 22:29:33|lop|Nestum 3In1 10X28G
+3500|Warehouse|Person|Removing stock|16-09-2024 22:31:49|lop|Nestum 3In1 10X28G
+3500|Warehouse|Person|Removing stock|16-09-2024 22:32:41|lop|Nestum 3In1 10X28G
+2000|Warehouse|Warehouse Return Zone|Returning stock|16-09-2024 22:34:26|lop|Mamee Chef Creamy Tom Yum Pack Noodles
+3000|Supplier|Warehouse Inbound|Purchase order items|16-09-2024 23:33:58|jee|Nestum 3In1 10X28G
+3000|Warehouse Inbound|Warehouse Rack|Purchase order items|16-09-2024 23:34:35|lop|Nestum 3In1 10X28G
+333|Warehouse Inbound|Warehouse Return Zone|Returning bad quality|16-09-2024 23:35:20|lop|Daebak Korean Soy Garlic Sauce 1KG
+666|Warehouse Inbound|Warehouse Rack|Purchase order items|16-09-2024 23:35:20|lop|Daebak Korean Soy Garlic Sauce 1KG
+3000|Warehouse Inbound|Warehouse Return Zone|Returning bad quality|16-09-2024 23:36:06|lop|Nestum 3In1 10X28G
+333|Warehouse Return Zone|Supplier|Returning product|16-09-2024 23:38:34|lop|Daebak Korean Soy Garlic Sauce 1KG
+3000|Warehouse Return Zone|Supplier|Returning product|16-09-2024 23:40:19|lop|Nestum 3In1 10X28G
+3000|Person|Warehouse|Adding stock in|17-09-2024 22:10:05|pop|Nestum 3In1 10X28G
+3000|Warehouse|Person|Removing stock|17-09-2024 22:11:32|pop|Nestum 3In1 10X28G
+1000|Warehouse|Warehouse Return Zone|Returning stock|17-09-2024 22:13:36|pop|Nestum 3In1 10X28G
+5000|Supplier|Warehouse Inbound|Purchase order items|17-09-2024 22:37:17|jee|Nestum 3In1 10X28G
+1000|Supplier|Warehouse Inbound|Purchase order items|18-09-2024 17:10:54|jee|Nestum 3In1 10X28G
+1|Warehouse|Person|Removing stock|18-09-2024 17:22:42|pop|Nestum 3In1 10X28G
+200|Warehouse|Warehouse Return Zone|Returning stock|18-09-2024 17:24:52|pop|Nestum 3In1 10X28G
+56|Person|Warehouse|Adding stock in|21-09-2024 11:21:10|qwer|Nestum 3In1 10X28G
+10000|Person|Warehouse|Adding stock in|21-09-2024 11:23:45|qwer|Nestum 3In1 10X28G
+30|Person|Warehouse|Adding stock in|21-09-2024 11:24:59|qwer|Nestum 3In1 10X28G
+1000|Warehouse|Person|Removing stock|21-09-2024 11:25:14|qwer|Nestum 3In1 10X28G
+30|Warehouse|Person|Removing stock|21-09-2024 11:25:44|qwer|Nestum 3In1 10X28G
+10|Person|Warehouse|Adding stock in|21-09-2024 11:30:29|qwer|Nestum 3In1 10X28G
+0|Warehouse|Warehouse Return Zone|Returning stock|21-09-2024 11:37:38|qwer|Mamee Chef Creamy Tom Yum Pack Noodles
+0|Warehouse|Warehouse Return Zone|Returning stock|21-09-2024 11:39:25|qwer|Nestum 3In1 10X28G
+0|Warehouse|Warehouse Return Zone|Returning stock|21-09-2024 11:39:35|qwer|Nestum 3In1 10X28G
+500|Warehouse Inbound|Warehouse Return Zone|Returning bad quality|21-09-2024 11:42:05|qwer|Nestum 3In1 10X28G
+500|Warehouse Inbound|Warehouse Rack|Purchase order items|21-09-2024 11:42:05|qwer|Nestum 3In1 10X28G
+5000|Warehouse Inbound|Warehouse Rack|Purchase order items|21-09-2024 11:43:28|qwer|Nestum 3In1 10X28G
+1000|Supplier|Warehouse Inbound|Purchase order items|21-09-2024 11:50:24|jee|Nestum 3In1 10X28G
+500|Warehouse Return Zone|Supplier|Returning product|21-09-2024 11:53:54|qwer|Nestum 3In1 10X28G

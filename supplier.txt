@@ -1,0 +1,13 @@
+jee|jee@gmail.com|12345|Mamee-Double Decker(M) Sdn Bhd|Petaling Jaya, Kuala Lumpur|0182713466
+tew|tew@gmail.com|12345|Watson's Personal Care Store Sdn Bhd|Subang Jaya, Selangor|0187899878
+lim|lim@gmail.com|12345|K-Long Enterprise Sdn Bhd|Puchong, Selangor|01156219517
+wei|wei@gmail.com|12345|Wei's Frozen Food Sdn Bhd|Bukit Damansara, Kuala Lumpur|0105573707
+wmm|wmm@gmail.com|12345|My Ocean Sdn Bhd|Mukim Krubong, Melaka|0193860281
+xin|xin@gmail.com|12345|A.M. Marketing Sdn Bhd|Shah Alam, Selangor|01128531831
+ram|ram@gmail.com|12345|Serimep(M) Sdn Bhd|Balakong, Selangor|0146710569
+hao|hao@gmail.com|12345|Yumi Bakery Supplies Sdn Bhd|Lorong Air Tenang, Kuala Lumpur|0146065421
+jun|jun@gamil.com|12345|BSH Enterprise(M) Sdn Bhd|Shah Alam, Selangor|0125231417
+jia|jia@gmail.com|12345|Standard Food Solutions Sdn Bhd|Skudai, Johor|0134769184
+edw|edw@gmail.com|12345|Kwong Soon Trading Co.|Johor Bahru, Johor|0129633583
+maggi|maggie@gmail.com|123|maggie sdn bhd|kuala selangor, selangor|0182713466
+qwerty|tew@.|qwer|ABC|wqewq|0187899878

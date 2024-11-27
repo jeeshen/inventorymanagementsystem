@@ -1,0 +1,40 @@
+0|inbound|R0003|false|Aro Frozen Mixed Berries 1KG?Standard Food Solutions Sdn Bhd|W0001?F?1
+0|stockin||false|Kotex OverNight Pants M 2S?Watson's Personal Care Store Sdn Bhd|W0001?A?1
+200|stockin||false|Durex Pleasuremax 12S?Watson's Personal Care Store Sdn Bhd|W0001?A?1
+2400|stockin||false|Aro Frozen Mixed Berries 1KG?Standard Food Solutions Sdn Bhd|W0001?A?1
+0|stockin||false|Daebak Korean Soy Garlic Sauce 1KG?Mamee-Double Decker(M) Sdn Bhd|W0001?A?1
+0|stockin||false|Corntoz Single Pack 100G?Mamee-Double Decker(M) Sdn Bhd|W0001?A?2
+0|stockin||false|Mamee Chef Creamy Tom Yum Pack Noodles?Mamee-Double Decker(M) Sdn Bhd|W0001?A?2
+4321|stockin||false|Mamee Chef Creamy Tom Yum Pack Noodles?Mamee-Double Decker(M) Sdn Bhd|W0001?A?3
+5000|stockin||false|Mamee Chef Creamy Tom Yum Pack Noodles?Mamee-Double Decker(M) Sdn Bhd|W0001?A?4
+5000|stockin||false|Mamee Chef Creamy Tom Yum Pack Noodles?Mamee-Double Decker(M) Sdn Bhd|W0001?A?5
+5000|stockin||false|Mamee Chef Creamy Tom Yum Pack Noodles?Mamee-Double Decker(M) Sdn Bhd|W0001?A?6
+0|Returned||true|Daebak Korean Soy Garlic Sauce 1KG?Mamee-Double Decker(M) Sdn Bhd|W0001?H?1
+0|Returned||true|Corntoz Single Pack 100G?Mamee-Double Decker(M) Sdn Bhd|W0001?H?1
+300|stockin||false|Kotex OverNight Pants M 2S?Watson's Personal Care Store Sdn Bhd|W0001?A?1
+0|stockin||false|Nestum 3In1 10X28G?Mamee-Double Decker(M) Sdn Bhd|W0001?A?2
+0|stockin||false|Nestum 3In1 10X28G?Mamee-Double Decker(M) Sdn Bhd|W0001?A?1
+0|inbound|from supplier|false|Nestum 3In1 10X28G?Mamee-Double Decker(M) Sdn Bhd|W0001?F?1
+0|inbound|from supplier|false|Daebak Korean Soy Garlic Sauce 1KG?Mamee-Double Decker(M) Sdn Bhd|W0001?F?1
+0|inbound|from supplier|false|Nestum 3In1 10X28G?Mamee-Double Decker(M) Sdn Bhd|W0001?F?1
+0|stockin||false|Nestum 3In1 10X28G?Mamee-Double Decker(M) Sdn Bhd|W0001?A?2
+0|Returned||true|Daebak Korean Soy Garlic Sauce 1KG?Mamee-Double Decker(M) Sdn Bhd|W0001?H?1
+666|stockin||false|Daebak Korean Soy Garlic Sauce 1KG?Mamee-Double Decker(M) Sdn Bhd|W0001?A?1
+0|Returned||true|Nestum 3In1 10X28G?Mamee-Double Decker(M) Sdn Bhd|W0001?H?1
+769|stockin||false|Nestum 3In1 10X28G?Mamee-Double Decker(M) Sdn Bhd|W0001?A?7
+1000|return||true|Nestum 3In1 10X28G?Mamee-Double Decker(M) Sdn Bhd|W0001?H?1
+0|inbound|from supplier|false|Nestum 3In1 10X28G?Mamee-Double Decker(M) Sdn Bhd|W0001?F?1
+0|inbound|from supplier|false|Nestum 3In1 10X28G?Mamee-Double Decker(M) Sdn Bhd|W0001?F?1
+200|return||true|Nestum 3In1 10X28G?Mamee-Double Decker(M) Sdn Bhd|W0001?H?1
+56|stockin||false|Nestum 3In1 10X28G?Mamee-Double Decker(M) Sdn Bhd|W0001?A?1
+5000|stockin||false|Nestum 3In1 10X28G?Mamee-Double Decker(M) Sdn Bhd|W0001?A?2
+5000|stockin||false|Nestum 3In1 10X28G?Mamee-Double Decker(M) Sdn Bhd|W0001?A?8
+30|stockin||false|Nestum 3In1 10X28G?Mamee-Double Decker(M) Sdn Bhd|W0001?A?1
+10|stockin||false|Nestum 3In1 10X28G?Mamee-Double Decker(M) Sdn Bhd|W0001?A?1
+0|return||false|Mamee Chef Creamy Tom Yum Pack Noodles?Mamee-Double Decker(M) Sdn Bhd|W0001?H?1
+0|return||false|Nestum 3In1 10X28G?Mamee-Double Decker(M) Sdn Bhd|W0001?H?1
+0|return||false|Nestum 3In1 10X28G?Mamee-Double Decker(M) Sdn Bhd|W0001?H?1
+0|Returned||true|Nestum 3In1 10X28G?Mamee-Double Decker(M) Sdn Bhd|W0001?H?1
+500|stockin||false|Nestum 3In1 10X28G?Mamee-Double Decker(M) Sdn Bhd|W0001?A?1
+5000|stockin||false|Nestum 3In1 10X28G?Mamee-Double Decker(M) Sdn Bhd|W0001?A?9
+1000|inbound|R0011|false|Nestum 3In1 10X28G?Mamee-Double Decker(M) Sdn Bhd|W0001?F?1
